@@ -14,20 +14,35 @@
 
 ## Wybrane projekty
 
-- [Zielona Marka](https://github.com/lukaszst-cz/zielona-marka-pl) — strona usługowa z CRM, Studio pracy, statusem klienta i wzorem umowy.
-- [TransportFlow 360](https://github.com/lukaszst-cz/transportflow-360) — demonstracja procesu transportowego, KPI i portal PWA.
-- [Operations Office Portfolio](https://github.com/lukaszst-cz/operations-office-portfolio) — zanonimizowane przykłady automatyzacji, raportowania i dokumentacji.
-- [Zielona Marka WordPress](https://github.com/lukaszst-cz/zielona-marka-wordpress) — autorski motyw WordPress dla firm i portfolio.
+- [Zielona Marka](https://github.com/lukaszst-cz/zielona-marka-pl) - strona usługowa z CRM, Studio pracy, statusem klienta i wzorem umowy.
+- [Operations Office Portfolio](https://github.com/lukaszst-cz/operations-office-portfolio) - centralne portfolio projektów operacyjnych, narzędzi, raportowania i dokumentacji.
+- [PrintFlow Control Center](https://github.com/lukaszst-cz/printflow-control-center) - aplikacja Python, SQLite i API z pakietem QA oraz automatycznymi testami.
+- [TransportFlow 360](https://github.com/lukaszst-cz/transportflow-360) - demonstracja procesu transportowego, KPI i portal PWA.
+- [Zielona Marka WordPress](https://github.com/lukaszst-cz/zielona-marka-wordpress) - autorski motyw WordPress dla firm i portfolio.
 
 ## Jak pracuję
 
-1. Najpierw rozpoznaję cel i proces firmy.
+1. Najpierw rozpoznaję cel, ryzyka i proces firmy.
 2. Projektuję prostą ścieżkę dla klienta oraz dla zespołu.
-3. Wdrażam, testuję na telefonie i komputerze, a potem przekazuję instrukcję obsługi.
+3. Buduję, testuję na telefonie i komputerze, a następnie przekazuję instrukcję obsługi.
+
+## QA i jakość
+
+- Projektuję przypadki testowe na podstawie wymagań, ryzyka i kryteriów akceptacji.
+- Wykonuję testy manualne: scenariusze pozytywne, negatywne, graniczne, eksploracyjne, smoke i regresję.
+- Dokumentuję defekty, priorytety, kroki odtworzenia oraz decyzje GO/NO-GO.
+- Automatyzuję kontrole logiki, HTTP API, odpowiedzi JSON i SQLite w Pythonie `unittest`.
+- Uruchamiam automatyczne testy oraz kontrole demonstracji w GitHub Actions.
 
 ## Stos technologiczny
 
-TypeScript · React · PHP / WordPress · Python · SQL · Cloudflare · Excel / Google Sheets · automatyzacje API
+**Frontend:** TypeScript · React · JavaScript ES6 · HTML5 · CSS3 · Tailwind CSS · responsywne interfejsy · PWA
+
+**Backend i dane:** Python · PHP / WordPress · SQLite · SQL · JSON · HTTP API · walidacja i eksport danych
+
+**Cloud i wdrożenia:** Cloudflare Workers · Cloudflare D1 · GitHub Pages · GitHub Actions
+
+**Analityka i dokumentacja:** Excel · Google Sheets · dashboardy KPI · Notion · Obsidian · CSV · Markdown · automatyzacje API
 
 ---
 
