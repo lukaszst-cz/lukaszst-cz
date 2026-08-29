@@ -1,49 +1,38 @@
 # Łukasz St-cz · Zielona Marka
 
-> Strony WWW, automatyzacje procesów, dashboardy KPI i proste narzędzia, które pomagają małym firmom pracować sprawniej.
+Pomagam małym firmom uporządkować obsługę zapytań, zleceń i danych — od strony WWW po proste narzędzia, które ograniczają ręczną pracę.
 
-[Strona marki](https://zielona-marka.pl) · [Kontakt](mailto:kontakt@zielona-marka.pl) · [Aktualna strona i Studio](https://github.com/lukaszst-cz/zielona-marka-pl)
+[Strona marki](https://zielona-marka.pl) · [Kontakt](mailto:kontakt@zielona-marka.pl)
 
-## Co buduję
+## Co mogę zrobić dla firmy
 
-- responsywne strony firmowe, landing page i portfolio,
-- formularze, statusy zleceń i panele klienta,
-- automatyzacje powtarzalnej pracy oraz obiegów zleceń,
-- dashboardy KPI w Excelu, Google Sheets i aplikacjach WWW,
-- techniczne SEO, publikację i kontrolę QA przed wdrożeniem.
+- **Strona, która prowadzi do zapytania** — strona firmowa, landing page, formularz wyceny i lokalne SEO.
+- **Mniej pracy ręcznej** — uporządkowanie zapytań, ofert, przypomnień, dokumentów i zadań.
+- **Mały CRM lub panel** — klienci, statusy, następne kroki i prosty widok dla zespołu.
+- **Dane i KPI** — Excel, Google Sheets lub aplikacja do kontroli sprzedaży, kosztów i terminów.
+- **Bezpieczne wdrożenie** — wersje mobilne, testy, kontrola jakości i instrukcja przekazania.
 
 ## Wybrane projekty
 
-- [Zielona Marka](https://github.com/lukaszst-cz/zielona-marka-pl) - strona usługowa z CRM, Studio pracy, statusem klienta i wzorem umowy.
-- [Operations Office Portfolio](https://github.com/lukaszst-cz/operations-office-portfolio) - centralne portfolio projektów operacyjnych, narzędzi, raportowania i dokumentacji.
-- [PrintFlow Control Center](https://github.com/lukaszst-cz/printflow-control-center) - aplikacja Python, SQLite i API z pakietem QA oraz automatycznymi testami.
-- [TransportFlow 360](https://github.com/lukaszst-cz/transportflow-360) - demonstracja procesu transportowego, KPI i portal PWA.
-- [Zielona Marka WordPress](https://github.com/lukaszst-cz/zielona-marka-wordpress) - autorski motyw WordPress dla firm i portfolio.
+| Projekt | Problem, który rozwiązuje | Demo |
+| --- | --- | --- |
+| [Zielona Marka — public portfolio](https://github.com/lukaszst-cz/zielona-marka-public-portfolio) | strona usługowa, ścieżka wyceny i demonstracje dla różnych branż | [strona](https://zielona-marka.pl) |
+| [Lead & Offer Copilot](https://github.com/lukaszst-cz/lead-offer-copilot) | szybsza, kontrolowana obsługa zapytań i szkiców ofert | [demo](https://lead-offer-zm.pages.dev/) |
+| [Document Checker](https://github.com/lukaszst-cz/document-checker) | kontrola CSV, Excel i PDF przed wysłaniem | [demo](https://document-checker-zm.pages.dev/) |
+| [PrintFlow 360](https://github.com/lukaszst-cz/printflow-360) | produkcja, Order-to-Cash i KPI w jednym modelu | [demo](https://lukaszst-cz.github.io/printflow-360/) |
+| [TransportFlow 360](https://github.com/lukaszst-cz/transportflow-360) | transport od zapytania do faktury i płatności | [demo](https://lukaszst-cz.github.io/transportflow-360/) |
+| [Zielona Marka WordPress](https://github.com/lukaszst-cz/zielona-marka-wordpress) | własny motyw WordPress dla firmy usługowej | [podgląd](https://lukaszst-cz.github.io/zielona-marka-wordpress/preview/) |
 
 ## Jak pracuję
 
-1. Najpierw rozpoznaję cel, ryzyka i proces firmy.
-2. Projektuję prostą ścieżkę dla klienta oraz dla zespołu.
-3. Buduję, testuję na telefonie i komputerze, a następnie przekazuję instrukcję obsługi.
+1. Rozpoznaję problem i aktualny proces firmy.
+2. Projektuję najprostszy sensowny przepływ dla klienta i zespołu, z uwzględnieniem ryzyk.
+3. Wdrażam, testuję na telefonie i komputerze, a następnie przekazuję rozwiązanie i instrukcję.
 
-## QA i jakość
+## QA i technologie
 
-- Projektuję przypadki testowe na podstawie wymagań, ryzyka i kryteriów akceptacji.
-- Wykonuję testy manualne: scenariusze pozytywne, negatywne, graniczne, eksploracyjne, smoke i regresję.
-- Dokumentuję defekty, priorytety, kroki odtworzenia oraz decyzje GO/NO-GO.
-- Automatyzuję kontrole logiki, HTTP API, odpowiedzi JSON i SQLite w Pythonie `unittest`.
-- Uruchamiam automatyczne testy oraz kontrole demonstracji w GitHub Actions.
+Projektuję przypadki testowe, sprawdzam scenariusze pozytywne, negatywne i graniczne oraz dokumentuję decyzje GO/NO-GO. Automatyzuję kontrole logiki, API i danych w Pythonie oraz uruchamiam je w GitHub Actions.
 
-## Stos technologiczny
-
-**Frontend:** TypeScript · React · JavaScript ES6 · HTML5 · CSS3 · Tailwind CSS · responsywne interfejsy · PWA
-
-**Backend i dane:** Python · PHP / WordPress · SQLite · SQL · JSON · HTTP API · walidacja i eksport danych
-
-**Cloud i wdrożenia:** Cloudflare Workers · Cloudflare D1 · GitHub Pages · GitHub Actions
-
-**Analityka i dokumentacja:** Excel · Google Sheets · dashboardy KPI · Notion · Obsidian · CSV · Markdown · automatyzacje API
-
----
+**Technologie:** TypeScript · React · JavaScript · PHP / WordPress · Python · SQLite / SQL · Excel / Google Sheets · HTTP API · Cloudflare · GitHub Actions · QA
 
 Działam lokalnie w rejonie Targówka i Wołomina oraz zdalnie w całej Polsce.
