@@ -34,8 +34,8 @@ Pomagam małym firmom uporządkować obsługę zapytań, zleceń i danych, od st
 Projektuję przypadki testowe, sprawdzam scenariusze pozytywne, negatywne i graniczne oraz dokumentuję decyzje GO/NO-GO. Automatyzuję kontrole logiki, API i danych w Pythonie oraz uruchamiam je w GitHub Actions.
 
 
-- **Frontend: React, TypeScript, JavaScript, HTML, CSS, WordPress, PWA
-- **Backend i dane: Python, PHP, SQLite, SQL, API, Cloudflare
-- **Automatyzacje i raportowanie: Excel, Google Sheets, CSV, GitHub Actions, QA
+- Frontend: React, TypeScript, JavaScript, HTML, CSS, WordPress, PWA
+- Backend i dane: Python, PHP, SQLite, SQL, API, Cloudflare
+- Automatyzacje i raportowanie: Excel, Google Sheets, CSV, GitHub Actions, QA
 
 Działam lokalnie w rejonie Targówka i Wołomina oraz zdalnie w całej Polsce.
