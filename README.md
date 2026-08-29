@@ -35,8 +35,8 @@ Projektuję przypadki testowe, sprawdzam scenariusze pozytywne, negatywne i gran
 
 Technologie
 
-Frontend: React, TypeScript, JavaScript, HTML, CSS, WordPress, PWA
-Backend i dane: Python, PHP, SQLite, SQL, API, Cloudflare
-Automatyzacje i raportowanie: Excel, Google Sheets, CSV, GitHub Actions, QA
+- **Frontend: React, TypeScript, JavaScript, HTML, CSS, WordPress, PWA
+- **Backend i dane: Python, PHP, SQLite, SQL, API, Cloudflare
+- **Automatyzacje i raportowanie: Excel, Google Sheets, CSV, GitHub Actions, QA
 
 Działam lokalnie w rejonie Targówka i Wołomina oraz zdalnie w całej Polsce.
