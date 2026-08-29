@@ -1,22 +1,22 @@
 # Łukasz St-cz · Zielona Marka
 
-Pomagam małym firmom uporządkować obsługę zapytań, zleceń i danych — od strony WWW po proste narzędzia, które ograniczają ręczną pracę.
+Pomagam małym firmom uporządkować obsługę zapytań, zleceń i danych, od strony WWW po praktyczne narzędzia biznesowe, które ograniczają ręczną pracę.
 
 [Strona marki](https://zielona-marka.pl) · [Kontakt](mailto:kontakt@zielona-marka.pl)
 
 ## Co mogę zrobić dla firmy
 
-- **Strona, która prowadzi do zapytania** — strona firmowa, landing page, formularz wyceny i lokalne SEO.
-- **Mniej pracy ręcznej** — uporządkowanie zapytań, ofert, przypomnień, dokumentów i zadań.
-- **Mały CRM lub panel** — klienci, statusy, następne kroki i prosty widok dla zespołu.
-- **Dane i KPI** — Excel, Google Sheets lub aplikacja do kontroli sprzedaży, kosztów i terminów.
-- **Bezpieczne wdrożenie** — wersje mobilne, testy, kontrola jakości i instrukcja przekazania.
+- **Strona, która prowadzi do zapytania**: strona firmowa, landing page, formularz wyceny i lokalne SEO.
+- **Mniej pracy ręcznej**: uporządkowanie zapytań, ofert, przypomnień, dokumentów i zadań.
+- **Mały CRM lub panel**: klienci, statusy, następne kroki i prosty widok dla zespołu.
+- **Dane i KPI**: Excel, Google Sheets lub aplikacja do kontroli sprzedaży, kosztów i terminów.
+- **Bezpieczne wdrożenie**: wersje mobilne, testy, kontrola jakości i instrukcja przekazania.
 
 ## Wybrane projekty
 
 | Projekt | Problem, który rozwiązuje | Demo |
 | --- | --- | --- |
-| [Zielona Marka — public portfolio](https://github.com/lukaszst-cz/zielona-marka-public-portfolio) | strona usługowa, ścieżka wyceny i demonstracje dla różnych branż | [strona](https://zielona-marka.pl) |
+| [Zielona Marka, public portfolio](https://github.com/lukaszst-cz/zielona-marka-public-portfolio) | strona usługowa, ścieżka wyceny i demonstracje dla różnych branż | [strona](https://zielona-marka.pl) |
 | [Lead & Offer Copilot](https://github.com/lukaszst-cz/lead-offer-copilot) | szybsza, kontrolowana obsługa zapytań i szkiców ofert | [demo](https://lead-offer-zm.pages.dev/) |
 | [Document Checker](https://github.com/lukaszst-cz/document-checker) | kontrola CSV, Excel i PDF przed wysłaniem | [demo](https://document-checker-zm.pages.dev/) |
 | [PrintFlow 360](https://github.com/lukaszst-cz/printflow-360) | produkcja, Order-to-Cash i KPI w jednym modelu | [demo](https://lukaszst-cz.github.io/printflow-360/) |
