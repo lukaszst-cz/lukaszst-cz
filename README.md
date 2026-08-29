@@ -33,7 +33,6 @@ Pomagam małym firmom uporządkować obsługę zapytań, zleceń i danych, od st
 
 Projektuję przypadki testowe, sprawdzam scenariusze pozytywne, negatywne i graniczne oraz dokumentuję decyzje GO/NO-GO. Automatyzuję kontrole logiki, API i danych w Pythonie oraz uruchamiam je w GitHub Actions.
 
-Technologie
 
 - **Frontend: React, TypeScript, JavaScript, HTML, CSS, WordPress, PWA
 - **Backend i dane: Python, PHP, SQLite, SQL, API, Cloudflare
