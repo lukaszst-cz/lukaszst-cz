@@ -1,4 +1,4 @@
-# Łukasz Staniewicz · Zielona Marka
+# Łukasz St-cz · Zielona Marka
 
 > Strony WWW, automatyzacje procesów, dashboardy KPI i proste narzędzia, które pomagają małym firmom pracować sprawniej.
 
