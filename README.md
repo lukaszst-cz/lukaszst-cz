@@ -21,6 +21,8 @@ Pomagam małym firmom uporządkować obsługę zapytań, zleceń i danych, od st
 | [Document Checker](https://github.com/lukaszst-cz/document-checker) | kontrola CSV, Excel i PDF przed wysłaniem | [demo](https://document-checker-zm.pages.dev/) |
 | [PrintFlow 360](https://github.com/lukaszst-cz/printflow-360) | produkcja, Order-to-Cash i KPI w jednym modelu | [demo](https://lukaszst-cz.github.io/printflow-360/) |
 | [TransportFlow 360](https://github.com/lukaszst-cz/transportflow-360) | transport od zapytania do faktury i płatności | [demo](https://lukaszst-cz.github.io/transportflow-360/) |
+| [TransportFlow Control Center](https://github.com/lukaszst-cz/transportflow-control-center) | aplikacja dla zleceń, floty, dokumentów i finansów | [kod i dokumentacja](https://github.com/lukaszst-cz/transportflow-control-center) |
+| [Fleet Ops Desk](https://github.com/lukaszst-cz/fleet-ops-desk) | lokalny panel do kontroli floty, najmu i leasingu | [kod i instrukcja](https://github.com/lukaszst-cz/fleet-ops-desk) |
 | [Zielona Marka WordPress](https://github.com/lukaszst-cz/zielona-marka-wordpress) | własny motyw WordPress dla firmy usługowej | [podgląd](https://lukaszst-cz.github.io/zielona-marka-wordpress/preview/) |
 
 ## Jak pracuję
@@ -29,13 +31,19 @@ Pomagam małym firmom uporządkować obsługę zapytań, zleceń i danych, od st
 2. Projektuję najprostszy sensowny przepływ dla klienta i zespołu, z uwzględnieniem ryzyk.
 3. Wdrażam, testuję na telefonie i komputerze, a następnie przekazuję rozwiązanie i instrukcję.
 
-## QA i technologie
+## Umiejętności programistyczne potwierdzone kodem
+
+Nie deklaruję technologii bez przykładu. Każdy obszar poniżej prowadzi do repozytorium, w którym można zobaczyć jego użycie.
+
+| Obszar | Co pokazuję w kodzie | Dowód |
+| --- | --- | --- |
+| Frontend | React, TypeScript, HTML, CSS, responsywny interfejs i widoki ról | [TransportFlow Control Center](https://github.com/lukaszst-cz/transportflow-control-center) |
+| Backend i dane | Python, SQLite, SQL, model danych floty, najmu i leasingu | [Fleet Ops Desk](https://github.com/lukaszst-cz/fleet-ops-desk) |
+| API i wdrożenia | endpointy HTTP, JSON, Cloudflare Workers i D1 | [TransportFlow Control Center](https://github.com/lukaszst-cz/transportflow-control-center) |
+| Jakość oprogramowania | testy Python, API i SQLite, scenariusze smoke i regresji, GitHub Actions | [PrintFlow Control Center](https://github.com/lukaszst-cz/printflow-control-center) |
+| Strony firmowe | PHP, WordPress, JavaScript, formularz i responsywny motyw | [Zielona Marka WordPress](https://github.com/lukaszst-cz/zielona-marka-wordpress) |
+| Dane i automatyzacje | Excel, CSV, walidacja dokumentów i kontrola kompletności przed wysłaniem | [Document Checker](https://github.com/lukaszst-cz/document-checker) |
 
 Projektuję przypadki testowe, sprawdzam scenariusze pozytywne, negatywne i graniczne oraz dokumentuję decyzje GO/NO-GO. Automatyzuję kontrole logiki, API i danych w Pythonie oraz uruchamiam je w GitHub Actions.
-
-
-- Frontend: React, TypeScript, JavaScript, HTML, CSS, WordPress, PWA
-- Backend i dane: Python, PHP, SQLite, SQL, API, Cloudflare
-- Automatyzacje i raportowanie: Excel, Google Sheets, CSV, GitHub Actions, QA
 
 Działam lokalnie w rejonie Targówka i Wołomina oraz zdalnie w całej Polsce.
