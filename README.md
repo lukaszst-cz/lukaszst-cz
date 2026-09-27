@@ -39,6 +39,7 @@ Nie deklaruję technologii bez przykładu. Każdy obszar poniżej prowadzi do re
 | Obszar | Co pokazuję w kodzie | Dowód |
 | --- | --- | --- |
 | Frontend i PWA | HTML, CSS, JavaScript, responsywny interfejs, widoki ról i tryb instalowalny | [TransportFlow 360](https://github.com/lukaszst-cz/transportflow-360) |
+| Web app i cloud | React, TypeScript, Cloudflare Workers, D1 i Drizzle ORM | [Zielona Marka Studio](https://github.com/lukaszst-cz/zielona-marka-studio) |
 | Backend i API | Python, SQLite, SQL, HTTP/JSON, walidacja i logika procesu | [PrintFlow Control Center](https://github.com/lukaszst-cz/printflow-control-center) |
 | Aplikacja desktopowa | FastAPI, SQLite, OCR, PyInstaller, Inno Setup i lokalny model danych | [DocPilot](https://github.com/lukaszst-cz/docpilot) |
 | Jakość oprogramowania | testy Python i Node.js, API/SQLite, smoke, regresja i GitHub Actions | [PrintFlow Control Center](https://github.com/lukaszst-cz/printflow-control-center) |
