@@ -2,7 +2,7 @@
 
 Pomagam małym firmom uporządkować obsługę zapytań, zleceń i danych, od strony WWW po praktyczne narzędzia biznesowe, które ograniczają ręczną pracę.
 
-[Strona marki](https://zielona-marka.pl) · [Kontakt](mailto:kontakt@zielona-marka.pl)
+[Strona marki](https://zielona-marka.pl) · [Aplikacje: pobierz i testuj](https://lukaszst-cz.github.io/operations-office-portfolio/aplikacje.html) · [Kontakt](mailto:kontakt@zielona-marka.pl)
 
 ## Co mogę zrobić dla firmy
 
@@ -20,6 +20,7 @@ Pomagam małym firmom uporządkować obsługę zapytań, zleceń i danych, od st
 | [Lead & Offer Copilot](https://github.com/lukaszst-cz/lead-offer-copilot) | szybsza, kontrolowana obsługa zapytań i szkiców ofert | [demo](https://lead-offer-zm.pages.dev/) |
 | [Document Checker](https://github.com/lukaszst-cz/document-checker) | kontrola CSV, Excel i PDF przed wysłaniem | [demo](https://document-checker-zm.pages.dev/) |
 | [DocPilot](https://github.com/lukaszst-cz/docpilot) | lokalne porządkowanie dokumentów, OCR, terminy, wyszukiwanie i bezpieczne operacje na plikach | [strona projektu](https://lukaszst-cz.github.io/operations-office-portfolio/docpilot/) |
+| [DialogNest](https://lukaszst-cz.github.io/operations-office-portfolio/dialognest/) | lokalne archiwum rozmów AI, wyszukiwanie, projekty, backup i recovery | [strona projektu](https://lukaszst-cz.github.io/operations-office-portfolio/dialognest/) |
 | [PrintFlow 360](https://github.com/lukaszst-cz/printflow-360) | produkcja, Order-to-Cash i KPI w jednym modelu | [demo](https://lukaszst-cz.github.io/printflow-360/) |
 | [TransportFlow 360](https://github.com/lukaszst-cz/transportflow-360) | transport od zapytania do faktury i płatności | [demo](https://lukaszst-cz.github.io/transportflow-360/) |
 | [TransportFlow Control Center](https://github.com/lukaszst-cz/transportflow-control-center) | aplikacja dla zleceń, floty, dokumentów i finansów | [kod i dokumentacja](https://github.com/lukaszst-cz/transportflow-control-center) |
