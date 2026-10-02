@@ -2,7 +2,7 @@
 
 Pomagam małym firmom uporządkować obsługę zapytań, zleceń i danych, od strony WWW po praktyczne narzędzia biznesowe, które ograniczają ręczną pracę.
 
-[Strona marki](https://zielona-marka.pl) · [Aplikacje: pobierz i testuj](https://lukaszst-cz.github.io/operations-office-portfolio/aplikacje.html) · [Kontakt](mailto:kontakt@zielona-marka.pl)
+[Strona marki](https://zielona-marka.pl) · [Aplikacje: pobierz i testuj](https://lukaszst-cz.github.io/operations-office-portfolio/aplikacje.html) · [Kontakt](mailto:kontakt@zielona-marka.pl) · [☕ Buy Me a Coffee](https://buymeacoffee.com/nalesnik_plus_plus)
 
 ## Co mogę zrobić dla firmy
 
