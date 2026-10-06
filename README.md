@@ -63,7 +63,7 @@ Repozytorium jest na razie prywatne.
 | [Lead & Offer Copilot](https://github.com/lukaszst-cz/lead-offer-copilot) | porządkowanie zapytań i przygotowanie ofert |
 | [Document Checker](https://github.com/lukaszst-cz/document-checker) | kontrola plików CSV, Excel i PDF przed wysłaniem |
 | [Zielona Marka Studio](https://github.com/lukaszst-cz/zielona-marka-studio) | aplikacja webowa rozwijana w React i TypeScript |
-| [Zielona Marka WordPress](https://github.com/lukaszst-cz/zielona-marka-wordpress) | własny motyw WordPress dla strony firmowej |
+
 
 ## Technologie
 
