@@ -38,6 +38,22 @@ Projekt jest obecnie rozwijany i testowany jako publiczna wersja beta.
 
 [Uruchom Aktywnik+](https://aktywnik-plus.vercel.app) · [repozytorium](https://github.com/lukaszst-cz/aktywnik-plus)
 
+### FamilySyncKids++
+
+Local-first panel organizacji dla rodzica i dziecka. Dwa osobne widoki pracują na tych samych danych: zadaniach, rutynach, szkole, czytaniu, aktywności, wiadomościach i historii. Aktualna wersja **Local 1.0** działa bez konta i backendu, zapisuje dane w przeglądarce i ma eksport/import JSON.
+
+To świadomie wersja lokalna — synchronizacja między różnymi urządzeniami jest kolejnym etapem.
+
+[Uruchom aplikację](https://lukaszst-cz.github.io/operations-office-portfolio/familysynckids-plus-plus/app/) · [strona projektu](https://lukaszst-cz.github.io/operations-office-portfolio/familysynckids-plus-plus/) · [instrukcja](https://github.com/lukaszst-cz/operations-office-portfolio/blob/main/familysynckids-plus-plus/docs/GETTING-STARTED.md)
+
+### SpokojnyPC+ / Spokojny+
+
+Local-first narzędzie do diagnostyki urządzeń zamiast agresywnego „cleanera”. SpokojnyPC+ 3.1 na Windows pokazuje kondycję komputera, baseline, zmiany, baterię, sieć, bezpieczeństwo i historię. SpokojnyMobile+ rozwija ten sam rdzeń na Androidzie, a DeviceLink pozwala sparować telefon z PC i odczytać status komputera bez zdalnego wykonywania poleceń.
+
+Projekt rozwijam jako wspólny fundament **Spokojny+** dla wielu urządzeń.
+
+[Repozytorium](https://github.com/lukaszst-cz/spokojny-pc-plus)
+
 ### CzyToŚciema?
 
 Aplikacja do wstępnego sprawdzania podejrzanych wiadomości, linków, ofert, zrzutów ekranu i kodów QR.
@@ -69,7 +85,7 @@ Repozytorium jest na razie prywatne.
 
 W zależności od projektu pracuję między innymi z:
 
-Python · FastAPI · SQLite · JavaScript · TypeScript · React · HTML · CSS · SQL
+Python · FastAPI · SQLite · C# · .NET · JavaScript · TypeScript · React · HTML · CSS · SQL
 
 Do tego dochodzą Git i GitHub, GitHub Actions, Vercel, Supabase, Cloudflare, OCR/Tesseract, OpenCV, PWA, WordPress, Excel/CSV, Notion i Obsidian.
 
