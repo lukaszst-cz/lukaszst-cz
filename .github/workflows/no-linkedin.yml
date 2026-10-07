@@ -1,0 +1,21 @@
+name: No LinkedIn links
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reject LinkedIn links
+        run: |
+          if grep -RIniE 'https?://([^[:space:]/]+\.)?linkedin\.com|linkedin\.com/' .             --exclude-dir=.git             --exclude='no-linkedin.yml'; then
+            echo "LinkedIn link found."
+            exit 1
+          fi
