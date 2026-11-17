@@ -36,6 +36,8 @@ Poniżej są **autorskie projekty demonstracyjne**, które można obejrzeć jako
 | AUREA SMILE | Projekt strony kliniki stomatologicznej z podziałem na specjalizacje. | [Otwórz demo](https://aurea-smile.vercel.app) |
 | SOLIDENT | Projekt witryny gabinetu stomatologicznego z informacjami dla pacjentów. | [Otwórz demo](https://solident-mu.vercel.app) |
 | BLACK HARBOR | Koncepcja strony studia detailingu. | [Otwórz demo](https://blackharbor.vercel.app) |
+| BEATA Beauty Atelier | Strona atelier beauty z demonstracyjną rezerwacją. | [Otwórz demo](https://beata-beauty-atelier.vercel.app/) |
+| KORDON Barber Studio | Oferta salonu barberskiego, kosmetyki i pokazowe rezerwacje. | [Otwórz demo](https://kordon-barber-studio-zielona-marka.vercel.app/) |
 
 ## Projekty procesowe i narzędzia dla firm
 
