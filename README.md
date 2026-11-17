@@ -21,6 +21,22 @@ Pracuję również nad **[Zieloną Marką](https://zielona-marka.pl/)**: stronam
 | [DocPilot](https://github.com/lukaszst-cz/docpilot) | Lokalna aplikacja Windows do pracy z dokumentami i OCR. Stabilne wydanie DocPilot 4.0; funkcje LifePilot pozostają w fazie preview. |
 | [Centrum Budowlane PWA](https://github.com/lukaszst-cz/centrum-budowlane-pwa) | Interaktywna demonstracja obiegu zamówień, magazynu, floty HDS, dokumentów i finansów, na danych symulacyjnych. |
 
+## Wybrane strony internetowe i koncepcje Zielonej Marki
+
+Poniżej są **autorskie projekty demonstracyjne**, które można obejrzeć jako działające podglądy. Nie są to potwierdzone realizacje dla wymienionych firm ani wdrożenia klientów. Pełny katalog stron, gazetek, aplikacji i arkuszy znajduje się w [portfolio Zielonej Marki](https://zielona-marka.pl/portfolio).
+
+| Projekt | Co pokazuje | Podgląd |
+| --- | --- | --- |
+| PHU MARECKI | Hurtownia budowlana: oferta, gazetka, lista materiałów i aplikacja PWA. | [Strona](https://phu-marecki.vercel.app) · [Aplikacja](https://phu-marecki.vercel.app/app.html) |
+| BUDRIVO | Katalog materiałów budowlanych z kalkulatorem i gazetką. | [Otwórz demo](https://budrivo.vercel.app) |
+| MATERIVO | Dwa warianty strony hurtowni, premium i ekonomiczny. | [Premium](https://materivo-pro.vercel.app) · [Ekonomiczny](https://materivo-eko.vercel.app) |
+| NEXIO ELEKTRO | Serwis dla branży elektrotechnicznej i gazetka produktowa. | [Strona](https://nexio-elektro.vercel.app) · [Gazetka](https://nexio-elektro.vercel.app/gazetka.html) |
+| NAVORO HURT | Katalog hurtowy i gazetka dla odbiorców B2B. | [Otwórz demo](https://navoro-hurt-koncepcja.vercel.app) |
+| SOLIDOM | Strona firmy remontowo-budowlanej z galerią i ofertą. | [Otwórz demo](https://solidom.vercel.app) |
+| AUREA SMILE | Projekt strony kliniki stomatologicznej z podziałem na specjalizacje. | [Otwórz demo](https://aurea-smile.vercel.app) |
+| SOLIDENT | Projekt witryny gabinetu stomatologicznego z informacjami dla pacjentów. | [Otwórz demo](https://solident-mu.vercel.app) |
+| BLACK HARBOR | Koncepcja strony studia detailingu. | [Otwórz demo](https://blackharbor.vercel.app) |
+
 ## Projekty procesowe i narzędzia dla firm
 
 | Projekt | Co można sprawdzić |
