@@ -39,6 +39,10 @@ Zaczynam od zrozumienia problemu, danych i użytkownika. Rozpisuję proces, role
 
 **Technologie:** Python, SQL / SQLite, C# / .NET, JavaScript, TypeScript, React, HTML / CSS, Git / GitHub Actions, Excel oraz narzędzia do automatyzacji i dokumentacji.
 
+## Autorstwo i materiały
+
+Portfolio i autorskie projekty rozwijam jako **Łukasz Staniewicz**, również pod marką Zielona Marka. Publiczne repozytorium nie oznacza automatycznie, że wszystkie pliki można dowolnie kopiować lub używać komercyjnie. Przed wykorzystaniem kodu, zdjęć, logotypów lub materiałów zewnętrznych trzeba sprawdzić licencję i prawa dotyczące danego elementu. Własne koncepcje firmowe są oznaczone jako demonstracje, bez sugerowania niepotwierdzonej współpracy z klientami.
+
 ## Kontakt
 
 - **Współpraca i strony WWW:** [kontakt@zielona-marka.pl](mailto:kontakt@zielona-marka.pl)
