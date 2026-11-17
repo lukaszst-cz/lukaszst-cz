@@ -4,11 +4,11 @@
 
 Projektuję i rozwijam praktyczne narzędzia do pracy z dokumentami, informacją i codziennymi zadaniami. Łączę doświadczenie w transporcie, flocie, obsłudze B2B oraz produkcji i DTP z programowaniem, analizą danych i projektowaniem interfejsów.
 
-Pracuję również nad **[Zieloną Marką](https://zielona-marka.pl/)**: stronami internetowymi, modernizacją istniejących witryn, formularzami i prostymi rozwiązaniami dla firm.
+Rozwijam również **[markę Zielona Marka](https://zielona-marka.pl/)**: stronami internetowymi, modernizacją istniejących witryn, formularzami i prostymi rozwiązaniami dla firm.
 
 ## Od czego zacząć
 
-- **[Portfolio Zielonej Marki](https://zielona-marka.pl/portfolio)**: strony WWW, koncepcje modernizacji, gazetki, aplikacje i arkusze. Każdy projekt ma określony status.
+- **[Portfolio marki Zielona Marka](https://zielona-marka.pl/portfolio)**: strony WWW, koncepcje modernizacji, gazetki, aplikacje i arkusze. Każdy projekt ma określony status.
 - **[Portfolio zawodowe](https://lukaszst-cz.github.io/operations-office-portfolio/)**: doświadczenie operacyjne, procesy, dane, QA i rozwiązania techniczne.
 - **[Aplikacje i demonstracje](https://lukaszst-cz.github.io/operations-office-portfolio/aplikacje.html)**: publiczne narzędzia do uruchomienia, pobrania lub sprawdzenia.
 
@@ -21,9 +21,9 @@ Pracuję również nad **[Zieloną Marką](https://zielona-marka.pl/)**: stronam
 | [DocPilot](https://github.com/lukaszst-cz/docpilot) | Lokalna aplikacja Windows do pracy z dokumentami i OCR. Stabilne wydanie DocPilot 4.0; funkcje LifePilot pozostają w fazie preview. |
 | [Centrum Budowlane PWA](https://github.com/lukaszst-cz/centrum-budowlane-pwa) | Interaktywna demonstracja obiegu zamówień, magazynu, floty HDS, dokumentów i finansów, na danych symulacyjnych. |
 
-## Wybrane strony internetowe i koncepcje Zielonej Marki
+## Wybrane strony internetowe i koncepcje marki Zielona Marka
 
-Poniżej są **autorskie projekty demonstracyjne**, które można obejrzeć jako działające podglądy. Nie są to potwierdzone realizacje dla wymienionych firm ani wdrożenia klientów. Pełny katalog stron, gazetek, aplikacji i arkuszy znajduje się w [portfolio Zielonej Marki](https://zielona-marka.pl/portfolio).
+Poniżej są **autorskie projekty demonstracyjne**, które można obejrzeć jako działające podglądy. Nie są to potwierdzone realizacje dla wymienionych firm ani wdrożenia klientów. Pełny katalog stron, gazetek, aplikacji i arkuszy znajduje się w [portfolio marki Zielona Marka](https://zielona-marka.pl/portfolio).
 
 | Projekt | Co pokazuje | Podgląd |
 | --- | --- | --- |
